@@ -1,4 +1,4 @@
-# Medium Article Downloader
+# Medium to markdown
 
 A Python tool to download Medium articles as Markdown files with all images included. This tool handles Medium's anti-scraping measures using multiple fallback methods to ensure reliable article downloads.
 
